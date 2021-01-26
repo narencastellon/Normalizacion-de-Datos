@@ -1,4 +1,4 @@
-# Normalizaci-n-de-Datos
+# Normalizacion-de-Datos
 
 ---
 title: "Normalización de Datos"
